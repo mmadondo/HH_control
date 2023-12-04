@@ -78,7 +78,7 @@ x = reshape(x,[],5);
 
 %% compare normal and pathological states
 time = strrep(strrep(datestr(now), ' ', '_'), ':', '_')
-save_path = '../experiments/local_solution/';
+save_path = '../experiments/local_solution/results/';
 
 lw = 2;
 figure(1); clf;

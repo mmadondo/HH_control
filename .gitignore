@@ -16,3 +16,4 @@ experiments/oc/eval/figures
 experiments/oc/run/figures
 experiments/oc/run/*_checkpt.pth
 experiments/local_solution/sub_opt_exp/*.csv
+experiments/local_solution/results
