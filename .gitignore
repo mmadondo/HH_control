@@ -1,0 +1,18 @@
+*.pyc
+*.pyo
+/__pycache__/
+.ipynb_checkpoints
+.DS_Store
+.vscode
+*.code-workspace
+*.egg
+*.npy
+.idea/
+*.zip
+
+# rm simulation data, plots, etc
+experiments/data
+experiments/oc/eval/figures
+experiments/oc/run/figures
+experiments/oc/run/*_checkpt.pth
+experiments/local_solution/sub_opt_exp/*.csv
